@@ -1,0 +1,2008 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remove",
+				"removeUser"
+			],
+			[
+				"count",
+				"countRemoves"
+			],
+			[
+				"getUse",
+				"getUserLDN"
+			],
+			[
+				"erro",
+				"error_log〔function〕"
+			],
+			[
+				"user",
+				"$userbuscado〔variable〕"
+			],
+			[
+				"return",
+				"returnUser"
+			],
+			[
+				"base",
+				"base64_decode〔function〕"
+			],
+			[
+				"Us",
+				"$UserTo〔variable〕"
+			],
+			[
+				"unse",
+				"unset〔keyword〕"
+			],
+			[
+				"foto",
+				"foto_id"
+			],
+			[
+				"pack",
+				"packscomprados"
+			],
+			[
+				"selec",
+				"$selectRoom〔variable〕"
+			],
+			[
+				"sele",
+				"selectRoom"
+			],
+			[
+				"cehck",
+				"checkStateChatRoom"
+			],
+			[
+				"nuevo",
+				"nuevochat_rooms"
+			],
+			[
+				"players",
+				"players_notifications"
+			],
+			[
+				"fro",
+				"$fromID〔variable〕"
+			],
+			[
+				"toi",
+				"$toID〔variable〕"
+			],
+			[
+				"from",
+				"fromid"
+			],
+			[
+				"gift",
+				"$giftData〔variable〕"
+			],
+			[
+				"gif",
+				"giftCredits"
+			],
+			[
+				"countS",
+				"$countSuccess〔variable〕"
+			],
+			[
+				"html",
+				"htmlspecialchars〔function〕"
+			],
+			[
+				"ba",
+				"base64_decode"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"up",
+				"updateCredits"
+			],
+			[
+				"option",
+				"$optionSelect〔variable〕"
+			],
+			[
+				"upda",
+				"updateCredits〔function〕"
+			],
+			[
+				"op",
+				"optionSelect"
+			],
+			[
+				"dele",
+				"deletePostImages"
+			],
+			[
+				"var",
+				"var_dump()"
+			],
+			[
+				"pass",
+				"passwordUser"
+			],
+			[
+				"md",
+				"md5()"
+			],
+			[
+				"curren",
+				"currentPassword"
+			],
+			[
+				"Delet",
+				"deleteAccount"
+			],
+			[
+				"panel-",
+				"panel-group"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"nue",
+				"nuevochat_mensajes"
+			],
+			[
+				"commentf",
+				"comm-section-footer"
+			],
+			[
+				"comme",
+				"comm-section"
+			],
+			[
+				"comment",
+				"comm-section-footer"
+			],
+			[
+				"delete",
+				"deletePostImagesw"
+			],
+			[
+				"deletePos",
+				"deletePostImagesw"
+			],
+			[
+				"path_file_fo",
+				"path_file_fotosenventathumb"
+			],
+			[
+				"path_file_pa",
+				"path_file_pack"
+			],
+			[
+				"path_file_foto",
+				"path_file_fotosenventathumb"
+			],
+			[
+				"path",
+				"path_file_photoprogramed"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"ventas",
+				"ventascompradas"
+			],
+			[
+				"use",
+				"user_a"
+			],
+			[
+				"varin",
+				"var_in_mysql_syntax"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"packs",
+				"packsenventa"
+			],
+			[
+				"players_gi",
+				"players_gift_given"
+			],
+			[
+				"respes",
+				"respuestasbot_enespera"
+			],
+			[
+				"fotos",
+				"fotosprogramadas"
+			],
+			[
+				"notifi",
+				"notificaciones_suscripcionesvencidas"
+			],
+			[
+				"players_farm",
+				"players_farm_items"
+			],
+			[
+				"players_gif",
+				"players_gifts"
+			],
+			[
+				"player_co",
+				"player_colecciones"
+			],
+			[
+				"player_it",
+				"player_items_bought"
+			],
+			[
+				"respues",
+				"respuestasbot_enespera"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"decode",
+				"base64_decode()"
+			],
+			[
+				"isset",
+				"if-isset-and-!empty"
+			],
+			[
+				"ST",
+				"START_TIME"
+			],
+			[
+				"v",
+				"var_dump()"
+			],
+			[
+				"room",
+				"room-is-closed"
+			],
+			[
+				"file",
+				"file-no-uploaded"
+			],
+			[
+				"set",
+				"setSwal"
+			],
+			[
+				"repor",
+				"error_reporting()"
+			],
+			[
+				"input",
+				"inputFile"
+			],
+			[
+				"_",
+				"$_GET"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"exis",
+				"existPhoto"
+			],
+			[
+				"id",
+				"idAuthor"
+			],
+			[
+				"gener",
+				"generateUUID"
+			],
+			[
+				"realesc",
+				"real_escape_string"
+			],
+			[
+				"real",
+				"real_escape_string"
+			],
+			[
+				"main",
+				"main-estruct"
+			],
+			[
+				"Na",
+				"NamesId"
+			],
+			[
+				"row",
+				"rowcpd"
+			],
+			[
+				"swi",
+				"swiperRemove"
+			],
+			[
+				"show",
+				"showEnd"
+			],
+			[
+				"un",
+				"unlockAll"
+			],
+			[
+				"req",
+				"requestFriend"
+			],
+			[
+				"idUs",
+				"idUser2"
+			],
+			[
+				"array",
+				"array_values"
+			],
+			[
+				"json_e",
+				"json_decode"
+			],
+			[
+				"can",
+				"cancelRequest"
+			],
+			[
+				"a",
+				"agregandoamigo"
+			],
+			[
+				"quer",
+				"queryjsc"
+			],
+			[
+				"soli",
+				"solicitudesPendientes"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"js",
+				"json_encode()"
+			],
+			[
+				"SQLU",
+				"sqlUsers"
+			],
+			[
+				"SQL",
+				"SQLUsers"
+			],
+			[
+				"SQ",
+				"SQLUSER"
+			],
+			[
+				"swiper",
+				"swiper-slide"
+			],
+			[
+				"rea",
+				"realIndex"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"sw",
+				"swiper.min.js"
+			],
+			[
+				"init",
+				"initMainTouch"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"SQLP",
+				"SQLPhoto"
+			],
+			[
+				"curre",
+				"currentPosition"
+			],
+			[
+				"curr",
+				"currentIndex"
+			],
+			[
+				"inli",
+				"inline-flex"
+			],
+			[
+				"cu",
+				"currentIndex"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"resu",
+				"resultOnPage"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"players_",
+				"players_questions"
+			],
+			[
+				"atrib",
+				"clearAttributes"
+			],
+			[
+				"ID",
+				"IDQuestions"
+			],
+			[
+				"vars",
+				"var_in_sql"
+			],
+			[
+				"S",
+				"SQLQuests"
+			],
+			[
+				"site",
+				"site_questions"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"pan",
+				"panel-success"
+			],
+			[
+				"footer",
+				"card-footer"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ajax",
+				"ajaxLocation"
+			],
+			[
+				"input-group-",
+				"input-group-btn "
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lo",
+				"SublimeLinter: Open diagnostics panel"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"cas",
+				"Convert Case: Lower Case"
+			],
+			[
+				"GIT",
+				"Git: Show"
+			],
+			[
+				"INIT",
+				"Git: Init"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"GIT CON",
+				"Set Syntax: Git Config"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"reide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"htm",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resoue",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"opensou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"reident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"highl",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Enable Debug Mode"
+			],
+			[
+				"brac",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"ei",
+				"Selection: Expand to Indentation"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"REI",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html e",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"jsno",
+				"Set Syntax: JSON"
+			],
+			[
+				"encod",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html cod",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"linrwe",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"paka",
+				"Package Control: Remove Package"
+			],
+			[
+				"ewi",
+				"File: New View into File"
+			],
+			[
+				"toggle",
+				"Toggle Block Comment"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"slide",
+				"Snippet: link-default"
+			],
+			[
+				"get",
+				"Snippet: GET['…']"
+			],
+			[
+				"snippet",
+				"Snippet: list"
+			],
+			[
+				"var",
+				"Snippet: var_in_sql"
+			],
+			[
+				"post",
+				"Snippet: POST['…']"
+			],
+			[
+				"varin",
+				"Snippet: var_in_sql"
+			],
+			[
+				"pos",
+				"Snippet: POST['…']"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"select th",
+				"UI: Select Theme"
+			],
+			[
+				"post[",
+				"Snippet: POST['…']"
+			],
+			[
+				"color sh",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color she",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color sel",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Snippet: comme",
+				"Snippet: comment-function"
+			],
+			[
+				"session",
+				"Snippet: SESSION['…']"
+			],
+			[
+				"g",
+				"Snippet: GET['…']"
+			],
+			[
+				"main",
+				"Snippet: main-estruct"
+			],
+			[
+				"gener",
+				"Snippet: supernatural - generate-link"
+			],
+			[
+				"uplo",
+				"FTPSync: Upload current file"
+			],
+			[
+				"omment",
+				"Snippet: comment-function"
+			],
+			[
+				"ploa",
+				"FTPSync: Upload current file"
+			],
+			[
+				"uploa",
+				"FTPSync: Upload current file"
+			],
+			[
+				"comment fun",
+				"Snippet: comment-function"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"comment f",
+				"Snippet: comment-function"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"rule",
+				"Wrap at Ruler"
+			],
+			[
+				"column",
+				"Snippet: column"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"db",
+				"Snippet: disabled"
+			],
+			[
+				"genete",
+				"Snippet: supernatural - generate-link"
+			],
+			[
+				"COMMFUN",
+				"Snippet: comment-function"
+			],
+			[
+				"generatelin",
+				"Snippet: supernatural - generate-link"
+			],
+			[
+				"enerate",
+				"PHP: Generate Constructor for Class"
+			],
+			[
+				"descr",
+				"Snippet: description_lists"
+			],
+			[
+				"getda",
+				"Snippet: supernatural - GetDate"
+			],
+			[
+				"genera",
+				"Snippet: supernatural - generate-link"
+			],
+			[
+				"estru",
+				"Snippet: main-estruct"
+			],
+			[
+				"comment-f",
+				"Snippet: comment-function"
+			],
+			[
+				"gene",
+				"Snippet: supernatural - generate-link"
+			],
+			[
+				"generatelink",
+				"Snippet: supernatural - generate-link"
+			],
+			[
+				"est",
+				"Snippet: main-estruct"
+			],
+			[
+				"header",
+				"Snippet: header"
+			],
+			[
+				"REID",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comment",
+				"Snippet: Comment - Section header Python comment"
+			],
+			[
+				"comment php",
+				"Snippet: Comment - HTML section"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ge",
+				"Snippet: GET['…']"
+			],
+			[
+				"e",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"sessio",
+				"Snippet: SESSION['…']"
+			],
+			[
+				"sni psot",
+				"Snippet: POST['…']"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"[]",
+				"Snippet: POST['…']"
+			],
+			[
+				"reiden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"codefol",
+				"Code Folding: Unfold"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"core",
+				"Package Control: Remove Channel"
+			],
+			[
+				"endif",
+				"Snippet: <?php if (…) ?> … <?php endif ?>"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jsb",
+				"Formatter: Beautify With JS Beautifier"
+			],
+			[
+				"bey",
+				"Formatter: Beautify With YAPF"
+			],
+			[
+				"REIND",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sess",
+				"Set Syntax: Scala"
+			],
+			[
+				"REINDE",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet: conf",
+				"Snippet: Constant Definition"
+			],
+			[
+				"sinppet",
+				"Snippet: POST['…']"
+			],
+			[
+				"lintert",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lintel",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"code html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"COMMENT TOO",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"comment ",
+				"Snippet: Comment - To-do Python list"
+			],
+			[
+				"comment html",
+				"Snippet: Comment - HTML section footer"
+			],
+			[
+				"formatter : php",
+				"Formatter: Beautify With PHP CS Fixer"
+			],
+			[
+				"for",
+				"Formatter: Beautify With Black"
+			],
+			[
+				"whi",
+				"Whitespace: Remove Trailing Whitespace"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"dir",
+			"hola",
+			"echo "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/otros/mymove2"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/chat/ajax.php",
+		"/C/xampp/htdocs/chat/logout.php",
+		"/C/xampp/htdocs/chat/functions.php",
+		"/C/xampp/htdocs/chat/settings.php",
+		"/C/xampp/htdocs/chat/settings2.php",
+		"/C/xampp/htdocs/chat/config.php",
+		"/C/xampp/htdocs/mygreattalent/settings2022.php",
+		"/C/xampp/htdocs/chat/core.php",
+		"/C/xampp/htdocs/chat/assets/js/custom.php",
+		"/C/xampp/htdocs/chat/nombres.php",
+		"/C/xampp/htdocs/chat/error_log",
+		"/C/xampp/htdocs/chat/foto.php",
+		"/C/xampp/htdocs/chat/assets/css/custom.css",
+		"/C/xampp/htdocs/chat/transacciones.php",
+		"/C/xampp/htdocs/chat/regalos.php",
+		"/C/xampp/htdocs/chat/.gitignore",
+		"/C/xampp/htdocs/mygreattalent/send_gift_to_all_users.php",
+		"/C/xampp/htdocs/chat/notifications.php",
+		"/C/xampp/htdocs/chat/send_gift_to_all_users.php",
+		"/C/xampp/htdocs/chat/fotoRandom.php",
+		"/C/xampp/htdocs/bg/chat/send_gift_to_all_users.php",
+		"/C/xampp/htdocs/chat/comprar.php",
+		"/C/xampp/htdocs/mygreattalent/nombres.php",
+		"/C/xampp/htdocs/chat/recover/index.php",
+		"/C/xampp/htdocs/bellasgram/modules/core/model/extra.class.php",
+		"/C/xampp/htdocs/chat/index.php",
+		"/C/Users/Franko/AppData/Local/Temp/Rar$DIa11812.24752/extra.class.php",
+		"/C/xampp/htdocs/bellasgram/modules/core/view/sidenav.html.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/colormag/header.php",
+		"/C/Users/Franko/Downloads/Analizator/wordpress/header.php",
+		"/C/Users/Franko/AppData/Local/Temp/Rar$DIa10292.13363/header.php",
+		"/C/Users/Franko/Downloads/header.php",
+		"/C/xampp/htdocs/siteb/3-show.php",
+		"/C/Users/Franko/Downloads/Analizator/wordpress/allow-users-popup.php",
+		"/C/Users/Franko/Downloads/Analizator/wordpress/functions.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/colormag/allow-users-popup.php",
+		"/C/xampp/htdocs/chat/galerias.php",
+		"/C/xampp/htdocs/PopUp.php",
+		"/C/xampp/htdocs/Redirigir.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/functions.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/allow-users-popup.php",
+		"/C/xampp/htdocs/sitea/fetch.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/colormag/functions.php",
+		"/C/Users/Franko/AppData/Local/Temp/Rar$DIa9052.5126/functions.php",
+		"/C/Users/Franko/Downloads/error_log (3)",
+		"/C/xampp/htdocs/wordpress/System/2-demo.php",
+		"/C/Users/Franko/AppData/Local/Temp/Rar$DIa3380.13257/2-demo.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/header.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentytwenty/functions.php",
+		"/C/xampp/htdocs/wordpress/wp-content/index.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/index.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentytwenty/header.php",
+		"/C/xampp/htdocs/siteb/2-demo.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentytwenty/index.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/index.php",
+		"/C/xampp/htdocs/sitea/fetch.html",
+		"/C/xampp/htdocs/siteb/.htaccess",
+		"/C/xampp/htdocs/siteb/3-show.html",
+		"/C/xampp/htdocs/sitea/.htaccess",
+		"/C/xampp/htdocs/bellasgram/static/js/custom.js",
+		"/C/xampp/htdocs/chat/Archivos que pudieron ser pero no fueron/todossonamigos.php",
+		"/C/Users/Franko/Downloads/chat-7-2-22/transacciones.php",
+		"/C/xampp/htdocs/chat/profile.php",
+		"/C/xampp/htdocs/chat/pets.php",
+		"/C/xampp/htdocs/chat/prueba.php",
+		"/C/xampp/htdocs/bellasgram/includes/third-party-auth.php",
+		"/C/xampp/htdocs/bellasgram/modules/members/model/profile.class.php",
+		"/C/xampp/htdocs/bellasgram/modules/admin/model/members.class.php",
+		"/C/xampp/htdocs/chat/chat.php",
+		"/C/xampp/htdocs/chat/search.php",
+		"/C/xampp/htdocs/chat/buscaip.php",
+		"/C/xampp/htdocs/chat/friends.php",
+		"/C/xampp/htdocs/bellasgram/modules/members/model/notifications.class.php",
+		"/C/xampp/htdocs/bellasgram/modules/members/controller/notifications.php",
+		"/C/xampp/htdocs/chat/cron/error_log",
+		"/C/xampp/htdocs/chat/Archivos que pudieron ser pero no fueron/Borra un usuario.php",
+		"/C/Franko/Utileria/Aplicaciones de escritorio/Portables/Sublime Text Build 3211 x64/Data/Packages/User/PHP.sublime-build",
+		"/C/Franko/Utileria/Aplicaciones de escritorio/Portables/Sublime Text Build 3211 x64/Data/Packages/User/untitled.sublime-build",
+		"/C/Franko/Utileria/Aplicaciones de escritorio/Portables/Sublime Text Build 3211 x64/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+		"/C/Franko/Utileria/Aplicaciones de escritorio/Portables/Sublime Text/Data/Packages/Default/Indentation Rules - Comments.tmPreferences",
+		"/C/Franko/Utileria/Aplicaciones de escritorio/Portables/Sublime Text/Data/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+		"/C/Franko/Utileria/Aplicaciones de escritorio/Portables/Sublime Text/Data/Packages/PackageResourceViewer/README.md",
+		"/C/xampp/htdocs/chat/friendsgalerias.php",
+		"/C/xampp/htdocs/bellasgram/modules/members/model/access.class.php",
+		"/C/xampp/htdocs/bellasgram/modules/members/model/member.class.php",
+		"/C/xampp/htdocs/chat/addpack.php",
+		"/C/Users/Franko/AppData/Local/Temp/Rar$DIa12016.8986/third-party-auth.php",
+		"/C/xampp/htdocs/bellasgram/modules/members/controller/account.delete.php",
+		"/C/xampp/htdocs/chat/admincambiarclave.php",
+		"/C/xampp/htdocs/bellasgram/modules/members/controller/register.php",
+		"/C/xampp/htdocs/chat/register.php",
+		"/C/xampp/htdocs/bellasgram/modules/members/controller/login.php",
+		"/C/Users/Franko/Downloads/chat-7-2-22/settings.php",
+		"/C/xampp/htdocs/bellasgram/modules/members/view/account.security.area.html.php",
+		"/C/xampp/htdocs/bellasgram/modules/core/model/session.class.php",
+		"/C/xampp/htdocs/chat/assets/js/bootstrap.min.js",
+		"/C/xampp/htdocs/chat/assets/css/bootstrap.min.css",
+		"/C/xampp/htdocs/chat/assets/js/jquery-3.3.1.min.js",
+		"/C/xampp/htdocs/chat/preguntas.php",
+		"/C/xampp/htdocs/chat/cron/giftcredits.cron.php",
+		"/C/xampp/htdocs/chat/cron/xxeverydayxx.php",
+		"/C/xampp/htdocs/bellasgram/includes/common.php",
+		"/C/xampp/htdocs/bellasgram/modules/core/controller/init.php",
+		"/C/xampp/htdocs/bellasgram/modules/shouts/model/shout.class.php",
+		"/C/Users/Franko/Downloads/prueba.txt",
+		"/C/xampp/htdocs/chat/cron/xxeveryweeklyxx.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/htdocs/chat/packs.php",
+		"/C/xampp/htdocs/chat/answersUsers.php",
+		"/C/xampp/htdocs/bellasgram/modules/site/controller/photo.php",
+		"/C/xampp/htdocs/chat/series/javascriptfilter.php",
+		"/D/Games/Online/COOP/server/Settings.xml",
+		"/D/Games/Online/COOP/server/Accounts.xml",
+		"/C/xampp/htdocs/chat/Row-img.php",
+		"/C/xampp/htdocs/chat/hola.om",
+		"/C/xampp/htdocs/cerberus/inc/php/cuenta.php",
+		"/C/xampp/htdocs/cerberus/inc/class/c.cuenta.php",
+		"/C/xampp/htdocs/mygreattalent/core.php",
+		"/C/xampp/htdocs/mygreattalent/ajax.php",
+		"/C/xampp/htdocs/mygreattalent/comprar.php",
+		"/C/xampp/htdocs/mygreattalent/functions.php",
+		"/C/xampp/htdocs/chat/comprarprueba.txt",
+		"/C/xampp/htdocs/cerberus/.htaccess",
+		"/C/xampp/htdocs/mygreattalent/error_log",
+		"/C/xampp/htdocs/chat/hola.php",
+		"/C/xampp/htdocs/chat/messages.php",
+		"/C/xampp/htdocs/chat/pagas.php",
+		"/C/xampp/phpMyAdmin/config.sample.inc.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 230.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\chat",
+			"C:\\xampp\\htdocs\\bellasgram",
+			"C:\\xampp\\htdocs\\chat",
+			"C:\\xampp\\htdocs\\bellasgram",
+			"C:\\xampp\\htdocs\\chat",
+			"C:\\xampp\\htdocs\\bellasgram",
+			"C:\\xampp\\htdocs\\chat",
+			"C:\\xampp\\htdocs\\bellasgram",
+			"C:\\xampp\\htdocs\\cerberus",
+			"C:\\xampp\\htdocs\\bellasgram",
+			"C:\\xampp\\htdocs\\chat,C:\\xampp",
+			"C:\\xampp\\htdocs\\chat"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"returnUser",
+			"reader",
+			"eliminar",
+			"enviar",
+			"questi",
+			"removeUser",
+			"swiper",
+			"echo",
+			"swiper",
+			"le han",
+			"transacciones",
+			"sweet",
+			"searcg",
+			"content.p",
+			"require",
+			"include",
+			"header",
+			"exampleModalCenter",
+			"AlertModal",
+			"15",
+			"12",
+			"follow",
+			"add",
+			"`players_movements`",
+			"ingresa",
+			"IP:",
+			"ip:",
+			"');\n",
+			"btn-",
+			"coins-user-panel",
+			"money",
+			"adop",
+			"IP:",
+			"IP",
+			"redirectto",
+			"$url",
+			"`bloqueos`",
+			"insert into `bloqueos`",
+			"block",
+			"border",
+			"descriptionGift",
+			"sqlinsert",
+			" in ",
+			"countSuccess",
+			"uname",
+			"sent",
+			"MGiveGifts",
+			"openModalGiveGift",
+			"openModalGiveGift2",
+			"rowu",
+			"selectSentGift",
+			"sent",
+			"totalDonate",
+			"amountToSend",
+			"profile",
+			"number-input",
+			"donar cre",
+			"#sentGiftSelect",
+			"sentGiftSelect",
+			"MGiveGift",
+			"$comment",
+			"sent",
+			"gift",
+			"comment",
+			"deleteAccount",
+			"ajax",
+			"JSON",
+			"$this",
+			"password",
+			"UPDATE `players",
+			"PROGRAMADOS",
+			"deleteAccount",
+			"deletePostImagesw",
+			"panel",
+			"_GET",
+			"deleteaccount",
+			"evita compras",
+			"token",
+			"session",
+			"memberData['session']",
+			"token",
+			"core",
+			"$session->token =",
+			"$session->token",
+			"token =",
+			".js",
+			"token",
+			"DeleteAccount",
+			"javas",
+			"DeleteAccount",
+			"perfil",
+			"panel-he",
+			"<a",
+			"hide",
+			"bs",
+			"send_cover-page",
+			"#send_cover-page",
+			"none",
+			"cover-page",
+			"panel panel-default",
+			"panel-group",
+			"jquery",
+			"boots",
+			"jqu",
+			"boots",
+			"giftcredits",
+			"fotosbot",
+			"echo",
+			"deleteac",
+			"notas",
+			"UNIX",
+			"time",
+			"unix",
+			"unixtime",
+			"fotosprog",
+			"paymen",
+			"gift",
+			"nuevochat",
+			"json_encode",
+			"fotosenven",
+			"message",
+			"m",
+			"copy('assets/img/addphoto.png', $path_file_pack);",
+			"fotosenventa",
+			"coleccione",
+			"site",
+			"user_id",
+			"path_file_photoprogramed"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.SFTP":
+	{
+		"height": 132.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 209.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-init":
+	{
+		"height": 122.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 32.0
+	},
+	"pinned_build_system": "Packages/User/PHP.sublime-build",
+	"project": "mymove2.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"conf",
+				"config.php"
+			],
+			[
+				"logout",
+				"logout.php"
+			],
+			[
+				"setting",
+				"settings.php"
+			],
+			[
+				"core",
+				"core.php"
+			],
+			[
+				"custom",
+				"assets\\js\\custom.php"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"nombres",
+				"nombres.php"
+			],
+			[
+				"foto",
+				"foto.php"
+			],
+			[
+				"GIT",
+				".gitignore"
+			],
+			[
+				"foto.p",
+				"foto.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"custom.p",
+				"assets\\js\\custom.php"
+			],
+			[
+				"regalos",
+				"regalos.php"
+			],
+			[
+				"send",
+				"send_gift_to_all_users.php"
+			],
+			[
+				"compr",
+				"chat\\comprar.php"
+			],
+			[
+				"error",
+				"chat\\error_log"
+			],
+			[
+				"nom",
+				"chat\\nombres.php"
+			],
+			[
+				"rei",
+				"chat\\recover\\index.php"
+			],
+			[
+				"functio",
+				"chat\\functions.php"
+			],
+			[
+				"aja",
+				"chat\\ajax.php"
+			],
+			[
+				"tran",
+				"chat\\transacciones.php"
+			],
+			[
+				"in",
+				"chat\\index.php"
+			],
+			[
+				"extra",
+				"bellasgram\\modules\\core\\model\\extra.class.php"
+			],
+			[
+				"extr",
+				"bellasgram\\modules\\core\\model\\extra.class.php"
+			],
+			[
+				"siden",
+				"bellasgram\\modules\\core\\view\\sidenav.html.php"
+			],
+			[
+				"gale",
+				"chat\\galerias.php"
+			],
+			[
+				"funct",
+				"chat\\functions.php"
+			],
+			[
+				"setti",
+				"chat\\settings.php"
+			],
+			[
+				"custo",
+				"chat\\assets\\js\\custom.php"
+			],
+			[
+				"todos",
+				"chat\\Archivos que pudieron ser pero no fueron\\todossonamigos.php"
+			],
+			[
+				"errr",
+				"chat\\error_log"
+			],
+			[
+				"pets",
+				"chat\\pets.php"
+			],
+			[
+				"trans",
+				"chat\\transacciones.php"
+			],
+			[
+				"fun",
+				"chat\\functions.php"
+			],
+			[
+				"aj",
+				"chat\\ajax.php"
+			],
+			[
+				"settin",
+				"chat\\settings.php"
+			],
+			[
+				"PROFILE",
+				"chat\\profile.php"
+			],
+			[
+				"thir",
+				"bellasgram\\includes\\third-party-auth.php"
+			],
+			[
+				"prue",
+				"chat\\prueba.php"
+			],
+			[
+				"profile",
+				"bellasgram\\modules\\members\\model\\profile.class.php"
+			],
+			[
+				"memb",
+				"bellasgram\\modules\\admin\\model\\members.class.php"
+			],
+			[
+				"cus",
+				"chat\\assets\\css\\custom.css"
+			],
+			[
+				"functi",
+				"chat\\functions.php"
+			],
+			[
+				"confi",
+				"chat\\config.php"
+			],
+			[
+				"logo",
+				"chat\\logout.php"
+			],
+			[
+				"con",
+				"chat\\config.php"
+			],
+			[
+				"transa",
+				"chat\\transacciones.php"
+			],
+			[
+				"busca",
+				"chat\\buscaip.php"
+			],
+			[
+				"profi",
+				"chat\\profile.php"
+			],
+			[
+				"nombre",
+				"chat\\nombres.php"
+			],
+			[
+				"function\t",
+				"chat\\functions.php"
+			],
+			[
+				"search",
+				"chat\\search.php"
+			],
+			[
+				"pru",
+				"chat\\prueba.php"
+			],
+			[
+				"profil",
+				"chat\\profile.php"
+			],
+			[
+				"erorr",
+				"chat\\error_log"
+			],
+			[
+				"to",
+				"chat\\Archivos que pudieron ser pero no fueron\\todossonamigos.php"
+			],
+			[
+				"config",
+				"chat\\config.php"
+			],
+			[
+				"notifi",
+				"bellasgram\\modules\\members\\controller\\notifications.php"
+			],
+			[
+				"pro",
+				"chat\\profile.php"
+			],
+			[
+				"prueb",
+				"chat\\prueba.php"
+			],
+			[
+				"frien",
+				"chat\\friends.php"
+			],
+			[
+				"noti",
+				"chat\\notifications.php"
+			],
+			[
+				"frie",
+				"chat\\friends.php"
+			],
+			[
+				"add",
+				"chat\\addpack.php"
+			],
+			[
+				"gal",
+				"chat\\galerias.php"
+			],
+			[
+				"member",
+				"bellasgram\\modules\\members\\model\\member.class.php"
+			],
+			[
+				"index",
+				"chat\\index.php"
+			],
+			[
+				"register",
+				"bellasgram\\modules\\members\\controller\\register.php"
+			],
+			[
+				"rgist",
+				"chat\\register.php"
+			],
+			[
+				"comprar",
+				"chat\\comprar.php"
+			],
+			[
+				"functions",
+				"chat\\functions.php"
+			],
+			[
+				"acces",
+				"bellasgram\\modules\\members\\model\\access.class.php"
+			],
+			[
+				"regis",
+				"bellasgram\\modules\\members\\controller\\register.php"
+			],
+			[
+				"login",
+				"bellasgram\\modules\\members\\controller\\login.php"
+			],
+			[
+				"custom.js",
+				"bellasgram\\static\\js\\custom.js"
+			],
+			[
+				"sett",
+				"chat\\settings.php"
+			],
+			[
+				"prof",
+				"chat\\profile.php"
+			],
+			[
+				"boot",
+				"chat\\assets\\js\\bootstrap.min.js"
+			],
+			[
+				"jqeury",
+				"chat\\assets\\js\\jquery-3.3.1.min.js"
+			],
+			[
+				"boots",
+				"chat\\assets\\js\\bootstrap.min.js"
+			],
+			[
+				"cor",
+				"chat\\core.php"
+			],
+			[
+				"co",
+				"chat\\config.php"
+			],
+			[
+				"everyd",
+				"chat\\cron\\xxeverydayxx.php"
+			],
+			[
+				"comm",
+				"bellasgram\\includes\\common.php"
+			],
+			[
+				"ini",
+				"bellasgram\\modules\\core\\controller\\init.php"
+			],
+			[
+				"week",
+				"chat\\cron\\xxeveryweeklyxx.php"
+			],
+			[
+				"addpa",
+				"chat\\addpack.php"
+			],
+			[
+				"packs",
+				"chat\\packs.php"
+			],
+			[
+				"pregu",
+				"chat\\preguntas.php"
+			],
+			[
+				"ans",
+				"chat\\answersUsers.php"
+			],
+			[
+				"regun",
+				"chat\\preguntas.php"
+			],
+			[
+				"foto.",
+				"chat\\foto.php"
+			],
+			[
+				"pho",
+				"bellasgram\\modules\\site\\controller\\photo.php"
+			],
+			[
+				"ajax",
+				"chat\\ajax.php"
+			],
+			[
+				"ja",
+				"chat\\series\\javascriptfilter.php"
+			],
+			[
+				"erro",
+				"chat\\error_log"
+			],
+			[
+				"compra",
+				"chat\\comprar.php"
+			],
+			[
+				"hola",
+				"chat\\hola.php"
+			],
+			[
+				"chat",
+				"chat\\chat.php"
+			],
+			[
+				"messa",
+				"chat\\messages.php"
+			],
+			[
+				"row",
+				"chat\\Row-img.php"
+			],
+			[
+				"pag",
+				"chat\\pagas.php"
+			],
+			[
+				"addga",
+				"chat\\addgaleria.php"
+			],
+			[
+				"paga",
+				"chat\\pagas.php"
+			],
+			[
+				"html",
+				"chat\\hola.html"
+			],
+			[
+				"nota",
+				"chat\\notas.php"
+			],
+			[
+				"xx",
+				"chat\\cron\\xxevery10minxx.php"
+			],
+			[
+				"custom.",
+				"chat\\assets\\js\\custom.php"
+			],
+			[
+				"mass",
+				"chat\\mass.php"
+			],
+			[
+				"prueba",
+				"chat\\prueba.php"
+			],
+			[
+				"ht",
+				"chat\\.htaccess"
+			],
+			[
+				"upload",
+				"chat\\upload4.php"
+			],
+			[
+				"xxever",
+				"chat\\cron\\xxevery10minxx.php"
+			],
+			[
+				"galer",
+				"galerias.php"
+			],
+			[
+				"fotor",
+				"fotoRandom.php"
+			],
+			[
+				"galeri",
+				"galerias.php"
+			],
+			[
+				"swi",
+				"assets\\js\\swiper.min.js"
+			],
+			[
+				"fotos",
+				"fotosprogramadas.php"
+			],
+			[
+				"galery",
+				"galery.php"
+			],
+			[
+				"adminques",
+				"chat\\admin_questions.php"
+			],
+			[
+				"",
+				"bellasgram\\demand_data.json"
+			],
+			[
+				"xxev",
+				"chat\\cron\\xxeverydayxx.php"
+			],
+			[
+				"admin",
+				"chat\\admin_questions.php"
+			],
+			[
+				"hta",
+				"chat\\.htaccess"
+			],
+			[
+				"notific",
+				"chat\\notifications.php"
+			],
+			[
+				"every",
+				"chat\\cron\\xxeveryweeklyxx.php"
+			],
+			[
+				"bloqu",
+				"chat\\bloqueados.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Franko\\Utileria\\Aplicaciones de escritorio\\Portables\\Sublime Text Build 3211 x64\\Data\\Local\\my-great-talent.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 194.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

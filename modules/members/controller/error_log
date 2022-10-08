@@ -1,0 +1,29 @@
+[18-Jun-2021 04:06:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 29
+[18-Jun-2021 04:09:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core' not found in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 3
+[18-Jun-2021 04:09:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core' not found in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 3
+[18-Jun-2021 04:09:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core' not found in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 3
+[18-Jun-2021 04:09:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core' not found in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 3
+[18-Jun-2021 04:09:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core' not found in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 3
+[18-Jun-2021 04:09:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core' not found in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 3
+[18-Jun-2021 04:10:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 3
+[18-Jun-2021 04:10:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 3
+[18-Jun-2021 04:10:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 3
+[18-Jun-2021 04:10:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\bellasgram\modules\members\controller\coin.ipn.php on line 3

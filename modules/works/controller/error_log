@@ -1,0 +1,8 @@
+[17-Apr-2022 21:54:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core' not found in C:\xampp\htdocs\mymove2\modules\works\controller\pending_tasks.javascript.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\mymove2\modules\works\controller\pending_tasks.javascript.php on line 11
+[18-Apr-2022 04:57:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core' not found in C:\xampp\htdocs\mymove2\modules\works\controller\pending_tasks.javascript.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\mymove2\modules\works\controller\pending_tasks.javascript.php on line 19

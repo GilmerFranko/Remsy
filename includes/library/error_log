@@ -1,0 +1,4 @@
+[12-Jul-2022 19:43:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Model' not found in C:\xampp\htdocs\mymove2\includes\library\model_db.class.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\mymove2\includes\library\model_db.class.php on line 17

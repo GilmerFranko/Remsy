@@ -1,0 +1,169 @@
+:root {
+  /**
+   * ABREVIACIONES
+   *  tc -- Text Color
+   * */
+
+   /* COLORES PRINCIPALES */
+  --main-background: rgb(1, 20, 29);
+  --main-tc: rgb(241, 241, 241);
+
+  /* COLORES SECUNDARIOS */
+  --second-background: #044C67;
+  --second-tc: rgb(29 1 1);
+
+  /* OTROS COLORES */
+  --bs-blue: #0d6efd;
+  --bs-indigo: #6610f2;
+  --bs-purple: #6f42c1;
+  --bs-pink: #d63384;
+  --bs-red: #dc3545;
+  --bs-orange: #fd7e14;
+  --bs-yellow: #ffc107;
+  --bs-green: #198754;
+  --bs-teal: #20c997;
+  --bs-cyan: #0dcaf0;
+  --bs-white: #fff;
+  --bs-gray: #6c757d;
+  --bs-gray-dark: #343a40;
+  --bs-primary: #0d6efd;
+  --bs-secondary: #6c757d;
+  --bs-success: #198754;
+  --bs-info: #0dcaf0;
+  --bs-warning: #ffc107;
+  --bs-danger: #dc3545;
+  --bs-light: #f8f9fa;
+}
+
+
+ /* APARIENCIA PRINCIPAL */
+
+/* fondo */
+.content-wrapper{
+  /*background: linear-gradient(90deg, var(--bs-danger) 5%, var(--main-background)100%,var(--bs-danger) 5%);*/
+  /*background: linear-gradient(90deg, var(--main-background) -62%, var(--second-background)55%,var(--main-background) 172%);*/
+  /*background: linear-gradient(90deg, rgb(1 16 29) 0%, #1b011d 50%,#17011d 100%);*/
+  background: url(https://www.jsgsproductions.com/img/fondosdepantalla2.jpg) fixed no-repeat center;
+    background-size: cover;
+}
+.box{
+  border: unset !important;
+  background: linear-gradient(90deg, var(--bs-green) 0%, var(--bs-yellow) 100%) !important;
+}
+
+
+/* COLORES Y DISEÑOS DE FUENTES Y TEXTOS */
+  a{
+    background: linear-gradient(360deg, var(--bs-orange) 0%, var(--bs-yellow) 100%);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    font-weight: 900px
+  }
+  p{
+
+  }
+  span{
+    color: var(--main-tc);
+  }
+  h1, h2, h3, h4, h5, h6{
+
+  }
+  /*TEXTO AL SITUAR EL MOUSE SOBRE UN DATA-TITLE*/
+
+    i[title]:hover:after {
+      content: attr(title);
+      padding: 4px 8px;
+      color: #333;
+      position: absolute;
+      left: 0;
+      top: 100%;
+      white-space: nowrap;
+      z-index: 20px;
+      -moz-border-radius: 5px;
+      -webkit-border-radius: 5px;
+      border-radius: 5px;
+      -moz-box-shadow: 0px 0px 4px #222;
+      -webkit-box-shadow: 0px 0px 4px #222;
+      box-shadow: 0px 0px 4px #222;
+      background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+      background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));
+      background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
+      background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+      background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
+      background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
+    }
+  /*/
+/*/
+
+/* MODULO TAREAS */
+
+  /* tarea iniciada */
+    .work-ini {
+      background: linear-gradient(90deg, var(--main-background) -62%, var(--second-background)55%,var(--main-background) 172%);
+      border-radius: 16px;
+      box-shadow: 0 0 6px -2px black;
+    }
+
+
+  /* TABLAS */
+    .table{
+      border: unset;
+    }
+    th{
+      font-weight: unset;
+      border: unset;
+    }
+    tr{
+      border: unset;
+    }
+    td{
+      border: unset;
+    }
+  /*/
+/*/
+/* OTROS */
+  .scroll-x{
+    overflow-x: scroll;
+  }
+  .nowrap{
+    white-space: nowrap;
+  }
+/*/
+/* SCROLL */
+  *::-webkit-scrollbar {
+      width: 18px;     /* Tamaño del scroll en vertical */
+      height: 8px;    /* Tamaño del scroll en horizontal */
+      transition: all .2s;
+  }
+
+  /* Ponemos un color de fondo y redondeamos las esquinas del track */
+  *::-webkit-scrollbar-track {
+      background: var(--main-background);
+      border-radius: 4px;
+      transition: all .3s;
+  }
+
+  /* Cambiamos el fondo cuando esté en active o hover */
+  *::-webkit-scrollbar-track:hover,
+  *::-webkit-scrollbar-track:active {
+    background: #d4d4d4;
+    transition: all .3s;
+  }/* Ponemos un color de fondo y redondeamos las esquinas del thumb */
+  *::-webkit-scrollbar-thumb {
+      background: var(--bs-orange);
+      border-radius: 4px;
+      transition: all .3s;
+  }
+
+  /* Cambiamos el fondo y agregamos una sombra cuando esté en hover */
+  *::-webkit-scrollbar-thumb:hover {
+      /*background: #b3b3b3;*/
+      box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+      transition: all .3s;
+  }
+
+  /* Cambiamos el fondo cuando esté en active */
+  *::-webkit-scrollbar-thumb:active {
+      /*background-color: #999999;*/
+      transition: all .3s;
+  }

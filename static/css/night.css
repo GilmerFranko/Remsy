@@ -1,0 +1,117 @@
+body {
+    /*background-color: whitesmoke;*/
+    background-color: #282828;
+}
+
+#viewShout .card, #viewShout .card .author {
+    background-color: #282828!important;
+    color: #FFF!important;
+}
+
+.collection-item.avatar.author
+{
+    background-color: #282828!important;
+}
+
+
+.date{
+    color: #AAA;
+}
+
+nav .icons a{
+    border-left: 1px solid #1d2225;
+}
+
+.fixed-action-btn.toolbar
+{
+    background-color: #282828!important;
+    color: #AAA!important;
+}
+
+
+#newCommentInput, #description, #sendComment i{
+    color: white!important;
+}
+
+a {
+    color: #4b96b3;
+}
+
+
+/*.sidenav.sidenav-fixed {
+  top:64px;
+}*/
+
+.nav-fixed.blue,
+.pagination li.active {
+    background-color: #263238 !important;
+}
+
+.light-blue.lighten-5 {
+    background-color: rgba(2, 2, 2, 0.32) !important;
+}
+
+.sidenav .collapsible-header,
+.sidenav.fixed .collapsible-header {
+    line-height: 48px;
+}
+
+.sidenav li {
+    line-height: inherit;
+}
+
+.collection .collection-item.avatar {
+    color: white !important;
+}
+
+.dropdown-content li>a,
+.dropdown-content li>span,
+.sidenav li>a,
+.sidenav li>a>i.material-icons {
+    color: rgba(255, 255, 255, 0.54);
+}
+
+.collection .collection-item,
+.dropdown-content,
+.sidenav .collapsible-body,
+.sidenav.fixed .collapsible-body,
+.sidenav {
+    background: #37474f;
+}
+
+.dropdown-content li:hover,
+.dropdown-content li.active,
+ul.side-nav.leftside-navigation li:not(.no-padding):hover {
+    background-color: rgba(0, 0, 0, 0.04);
+}
+
+.sidenav .collapsible-body>ul:not(.collapsible)>li.active,
+.sidenav.sidenav-fixed .collapsible-body>ul:not(.collapsible)>li.active {
+    background: #263238 !important;
+}
+
+.sidenav-header {
+    height: 64px;
+    color: white;
+    background: inherit;
+    background: #37474f;
+}
+
+.divider {
+    background-color: #263238;
+}
+
+.collection,
+.collection .collection-item {
+    border-color: #263238;
+}
+
+a{
+	color: white;
+}
+
+span, input{
+	color: #bbbbbb !important;
+}
+
+

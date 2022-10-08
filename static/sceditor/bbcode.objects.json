@@ -1,0 +1,33 @@
+{
+	"br":{
+		"styles": {
+			"stylename": null,
+			"another-style-name": ["value1", "value2"]
+		},
+		"tags": {
+			"tag": null,
+			"another-tag": {
+				"attribute1": null,
+				"attribute2": ["value1", "value2"]
+			}
+		},
+		"isSelfClosing": false,
+		"isInline": true,
+		"isHtmlInline": "undefined",
+		"allowedChildren": null,
+		"allowsEmpty": false,
+		"excludeClosing": false,
+		"skipLastLineBreak": false,
+		"strictMatch": false,
+
+		"breakBefore": false,
+		"breakStart": false,
+		"breakEnd": false,
+		"breakAfter": false,
+
+		"format": "string|function",
+		"html": "string|function",
+
+		"quoteType": "sceditor.BBCodeParser.QuoteType.auto"
+	}
+}
